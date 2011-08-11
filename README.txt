@@ -14,6 +14,6 @@ Visit my page for more info: LiquidProQuo.blogspot.com
 
 Contact me: LiquidProQuoDev@gmail.com
 
-Source available at:
+Git Source Repository: github.com/LiquidProQuo/Sudoku-Solver.git
 
 Thanks!

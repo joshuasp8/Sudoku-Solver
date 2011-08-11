@@ -1,0 +1,12 @@
+73*4005.1
+2*.*70460
+...***.30
+00*0010..
+...507014
+0**600200
+006093000
+0100..740
+00.75***0
+
+For the record, nothing written after line 9 matters, but this file just shows that you may interchange symbols at a whim,
+and it won't make any difference.
